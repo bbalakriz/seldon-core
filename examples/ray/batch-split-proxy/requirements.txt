@@ -1,4 +1,4 @@
-ray==1.0.0
+ray==2.8.1
 
 simpletransformers==0.48.5
 tensorboardX==1.9
